@@ -37,6 +37,7 @@ int main(int argc, char * argv[]) {
     free(names);
     return 0;
 }
+```
 
 ### Understanding Pointers and Arrays
 
@@ -104,3 +105,4 @@ int main(int argc, char *argv[]) {
 
     return 0;
 }
+```
