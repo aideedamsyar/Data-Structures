@@ -1,15 +1,9 @@
-# Lab 3
-
-Status: In progress
-Course: Data Structures (https://www.notion.so/Data-Structures-559c55dbecd54ff3a57c68e911f63a2b?pvs=21)
-Due date: March 24, 2024 11:59 PM (GMT+9)
-
-# Singly Linked List Implementation in C
+# Lab 3: Singly Linked List Implementation in C
 
 <aside>
 💡 This documentation provides an overview and explanation of a simple singly linked list implementation in C. The code includes functionalities for creating a list, adding and removing elements, and utility functions for finding elements and printing the list content.
-
 </aside>
+
 
 - The core of the linked list is defined by a `Node` structure, which contains an integer `element` and a pointer to the next node.
 
