@@ -1,4 +1,4 @@
-# Lab 3: Singly Linked List Implementation in C
+<img width="718" alt="Screenshot" src="https://github.com/aideedamsyar/Data-Structures/assets/82840182/e087f820-c80f-48c3-b9f5-0b2114379b84"># Lab 3: Singly Linked List Implementation in C
 
 💡 This documentation provides an overview and explanation of a simple singly linked list implementation in C. The code includes functionalities for creating a list, adding and removing elements, and utility functions for finding elements and printing the list content.
 
@@ -162,3 +162,5 @@ f 7
 f 2
 p
 ```
+## Output
+<img width="718" alt="Screenshot" src="https://github.com/aideedamsyar/Data-Structures/assets/82840182/fb875400-6ae5-4877-a0c0-e6e8e136e5e2">
