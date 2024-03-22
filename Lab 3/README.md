@@ -1,8 +1,8 @@
 # Lab 3: Singly Linked List Implementation in C
 
-<aside>
 💡 This documentation provides an overview and explanation of a simple singly linked list implementation in C. The code includes functionalities for creating a list, adding and removing elements, and utility functions for finding elements and printing the list content.
-</aside>
+
+
 
 
 - The core of the linked list is defined by a `Node` structure, which contains an integer `element` and a pointer to the next node.
