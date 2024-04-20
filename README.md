@@ -1,6 +1,6 @@
 # Data Structures 🗂
 
-This repository for my Data Structure class, including coding assignments, project solutions, and study notes. It's a personal academic archive meant to track my progress and serve as a reference. 
+Repository for my Data Structure class, including coding assignments, project solutions, and study notes. It's a personal academic archive meant to track my progress and serve as a reference. 
 
 ## Contents 🚀
 - [Week 1: Environment Setting](./Lab%201/)
