@@ -51,10 +51,7 @@ int Height(Position P) {
     else {
         int leftHeight = Height(P->Left);
         int rightHeight = Height(P->Right);
-        if (leftHeight > rightHeight)
-            return leftHeight + 1;
-        else
-            return rightHeight + 1;
+        return 1 + Max(leftHeight, rightHeight);
     }
 }
 
