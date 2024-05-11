@@ -3,13 +3,14 @@
 Repository for my Data Structure class, including coding assignments, project solutions, and study notes. It's a personal academic archive meant to track my progress and serve as a reference. 
 
 ## Contents 🚀
-- [Week 1: Environment Setting](./Lab%201/)
-- [Week 2: Dynamic Memory Allocation](./Lab%202/)
-- [Week 3: Linked List](./Lab%203/)
-- [Week 4: Stack](./Lab%204/)
-- [Week 5: Queue](./Lab%205/)
-- Week 6: No Lab
-- [Week 7: Tree]()
+- [Lab 1: Environment Setting](./Lab%201/)
+- [Lab 2: Dynamic Memory Allocation](./Lab%202/)
+- [Lab 3: Linked List](./Lab%203/)
+- [Lab 4: Stack](./Lab%204/)
+- [Lab 5: Queue](./Lab%205/)
+- No Lab for Week 6
+- [Lab 7: Tree](./Lab%206)
+- [Lab 8: AVL](./Lab%207) 
 
 
 ## Contact 📫
