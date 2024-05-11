@@ -47,7 +47,7 @@ int Max(ElementType num1, ElementType num2) {
 
 int Height(Position P) {
     if (!P)
-        return 0;
+        return -1;
     else {
         int leftHeight = Height(P->Left);
         int rightHeight = Height(P->Right);
@@ -143,7 +143,7 @@ AVLTree Insert(ElementType X, AVLTree T) {
 void PrintInorder(AVLTree T) {
     if (T != NULL) {
         PrintInorder(T->Left);
-        printf("%d(%d) ", T->Element, T->Height-1);
+        printf("%d(%d) ", T->Element, T->Height);
         PrintInorder(T->Right);
     }
 }
