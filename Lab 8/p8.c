@@ -46,14 +46,12 @@ int Max(ElementType num1, ElementType num2) {
 }
 
 int Height(Position P) {
-    if (!P)
-        return -1;
-    else {
-        int leftHeight = Height(P->Left);
-        int rightHeight = Height(P->Right);
-        return 1 + Max(leftHeight, rightHeight);
-    }
+    if (P == NULL) 
+        return -1; 
+    else 
+        return P->Height;
 }
+
 
 Position SingleRotateWithLeft(Position node) {
     Position K1;
