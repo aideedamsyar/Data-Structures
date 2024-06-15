@@ -8,11 +8,12 @@ Repository for my Data Structure class, including coding assignments, project so
 - [Lab 3: Linked List](./Lab%203/)
 - [Lab 4: Stack](./Lab%204/)
 - [Lab 5: Queue](./Lab%205/)
-- No Lab for Week 6
+- No Lab 6
 - [Lab 7: Tree](./Lab%206)
 - [Lab 8: AVL](./Lab%207) 
 - [Lab 9: Heap](./Lab%209/)
 - [Lab 10: Disjoint Set](./Lab%2010/)
+- No Lab 11
 - [Lab 12: Graph (Dijkstra's Algorith)](./Lab%2012/)
 
 
