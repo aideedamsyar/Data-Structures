@@ -14,7 +14,7 @@ Repository for my Data Structure class, including coding assignments, project so
 - [Lab 9: Heap](./Lab%209/)
 - [Lab 10: Disjoint Set](./Lab%2010/)
 - No Lab 11
-- [Lab 12: Graph (Dijkstra's Algorith)](./Lab%2012/)
+- [Lab 12: Graph (Dijkstra's Algorithm)](./Lab%2012/)
 
 
 ## Contact 📫
